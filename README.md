@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm krishnavamshi</h1>
-<h3 align="center">I am a passionate & Skilled Data Science Enthusiast seeking career launchpad.I have completed my PG Diploma in Data Science & Machine Leaning Master Class at [BussinessToys](https://businesstoys.in/).I have the blend of practical exposure in my past job experience and strong academic backing with 12+ industry-based projects across various domains like E-Commerce, Banking Frauds, Science & Technology, Business Strategy etc.
+<h3 align="center">I am a passionate & Skilled Data Science Enthusiast seeking career launchpad.I have completed my PG Diploma in Data Science & Machine Leaning Master Class at (https://businesstoys.in/) I have the blend of practical exposure in my past job experience and strong academic backing with 12+ industry-based projects across various domains like E-Commerce, Banking Frauds, Science & Technology, Business Strategy etc.
   
 I also worked with [Datalytics](https://www.datalytics.co.in/) as a Data Science Intern for 6 months. 
   
