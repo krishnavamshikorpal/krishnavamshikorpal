@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm krishnavamshi</h1>
-<h3 align="center">I am a passionate & Skilled Data Science Enthusiast seeking career launchpad.I have completed my PG Diploma in Data Science & Machine Leaning Master Class at https://businesstoys.in/ I have the blend of practical exposure and strong academic backing with 12+ industry-based projects across various domains like E-Commerce, Banking Frauds, Science & Technology, Business Strategy etc. 
+<h3 align="center">I'm very passionate on AI currently working with people tech group as Junior Data Scientist. Worked on GM project for detecting anomalies in CANBUS data using Deep Learning methods and working on NLP project for resume parser using Transformers and Bert. 
 
 I also worked with [Datalytics](https://www.datalytics.co.in/) as a Data Science Intern for 6 months. 
 
